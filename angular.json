@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-cool-proj"
+    }
+  },
+  "defaultProject": "my-cool-proj",
+  "cli": {
+    "analytics": "93e54992-887f-44f8-a01a-ce4251eb3e2f"
+  }
 }
